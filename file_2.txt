@@ -1,2 +1,7 @@
 HELLO MASAI
+<<<<<<< HEAD
 WEEK_1 USER_2X
+=======
+WEEK_1 USER_1
+>>>>>>> dfbc5adb9dedadb793ed981c311c55d1f186bc66
+Making changes
